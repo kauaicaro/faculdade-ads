@@ -21,7 +21,7 @@ Escolher o mascote da universidade.
 5. Agradecimento por participação  
 
 ## Diagrama
-O diagrama da organização das tarefas está disponível no arquivo `diagrama.pdf`.
+O diagrama da organização das tarefas está disponível no arquivo `diagrama.png`.
 
 ## Autor
 Kauã Icaro
